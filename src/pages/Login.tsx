@@ -12,7 +12,7 @@ const Login = () => {
   return (
     <div className='bg-black max-w-[1440px] h-screen m-auto text-white  flex flex-col justify-between'>
         <div className=" w-full h-16 flex justify-center items-center border border-slate-800">
-            <img src="https://media.licdn.com/dms/image/D560BAQEmo1aZIhVtlQ/company-logo_200_200/0/1700158687336/reachinbox_ai_logo?e=2147483647&v=beta&t=2eGcwWsFtdBcUVJGGHkBxWHYFN86D-c5zfyr4s3DsNw" alt="reachinbox-logo" className="h-7" />
+            <img src="Logo12.svg" alt="reachinbox-logo" className="h-7" />
         </div>
         <div className='w-full  flex justify-center items-center '>
             <div className=' m-auto w-[460px] h-auto md:h-[312px]  bg-[#111214] rounded-2xl border border-gray-700  py-6  px-10 '>
